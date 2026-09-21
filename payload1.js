@@ -1,2 +1,2 @@
-alert("If you can read this, CSP has been bypassed on the medium security level")
+alert("If you can read this, CSP has been bypassed on the low security level");
 
